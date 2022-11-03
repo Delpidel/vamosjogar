@@ -37,13 +37,13 @@ body::before {
 }
 
 .apresentacao-titulo {
-    text-align: center;
     font-family: 'Kanit', sans-serif;
-    font-weight: 600;
-    font-size: 55px;
+    font-weight: 600;  
     text-shadow: 1px 1px rgb(255, 255, 255);
-    margin-top: 0.5in;
-    margin-bottom: 0.3n;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+  
 }
 
 .apresentacao-imagem {
