@@ -63,10 +63,10 @@ body::before {
     text-shadow: 2px 2px rgb(138, 37, 6);
     margin-top: 0.5in;
     margin-bottom: 0.5in;
-    margin-right: auto;
-    margin-left: auto;
     text-align: center;
-    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
 }
 
 
