@@ -51,7 +51,8 @@ body::before {
 .apresentacao-imagem {
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    text-align: center;
 }
 
 .apresentacao-sec1-div1-subtitulo {
