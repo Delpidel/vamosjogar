@@ -43,7 +43,6 @@ body::before {
     text-shadow: 1px 1px rgb(255, 255, 255);
     margin-left: auto;
     margin-right: auto;
-    width: 10em;
   
 }
 
@@ -64,7 +63,6 @@ body::before {
     margin-bottom: 0.5in;
     margin-left: auto;
     margin-right: auto;
-    width: 10em;
 }
 
 
