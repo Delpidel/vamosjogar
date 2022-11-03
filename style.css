@@ -41,7 +41,6 @@ body::before {
     font-size: 50px;
     font-weight: 600;  
     text-shadow: 1px 1px rgb(255, 255, 255);
-    text-align: center;
     margin-left: auto;
     margin-right: auto;
     width: 10em;
@@ -63,7 +62,6 @@ body::before {
     text-shadow: 2px 2px rgb(138, 37, 6);
     margin-top: 0.5in;
     margin-bottom: 0.5in;
-    text-align: center;
     margin-left: auto;
     margin-right: auto;
     width: 10em;
