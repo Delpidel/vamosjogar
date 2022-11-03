@@ -38,6 +38,7 @@ body::before {
 
 .apresentacao-titulo {
     font-family: 'Kanit', sans-serif;
+    font-size: 50px;
     font-weight: 600;  
     text-shadow: 1px 1px rgb(255, 255, 255);
     margin-left: auto;
