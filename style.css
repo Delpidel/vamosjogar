@@ -65,6 +65,7 @@ body::before {
     margin-bottom: 0.5in;
     margin-right: auto;
     margin-left: auto;
+    text-align: center;
     display: block;
 }
 
