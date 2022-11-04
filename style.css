@@ -43,13 +43,13 @@ body::before {
     text-shadow: 1px 1px rgb(255, 255, 255);
     margin-left: 0.3in;
     margin-right: auto;
-    text-align: center;
+    justify-content: space-around;
   
 }
 
 .apresentacao-imagem {
     display: flex;
-    margin-left: auto;
+    margin-left: 0.3in;
     margin-right: auto;
     align-items: center;
     justify-content: space-around;
@@ -61,11 +61,10 @@ body::before {
     font-size: 20px;
     color: rgb(232, 198, 10);
     text-shadow: 2px 2px rgb(138, 37, 6);
-    margin-top: 0.5in;
+    margin-top: 0.3in;
     margin-bottom: auto;
     margin-left: 0.3in;
     margin-right: auto;
-    text-align: center;
 }
 
 
@@ -93,7 +92,7 @@ footer {
     color: aliceblue;
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
-    margin-top: 1in;
+    margin-top: 0.5in;
     margin-right: 0.3in;
     margin-left: 0.3in;
     margin-bottom: 0.5in;
