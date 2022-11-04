@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    font-family: Kanit, sans-serif;
+    font-family: 'Kanit', sans-serif;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.4;
@@ -38,27 +38,27 @@ body::before {
 
 .apresentacao-titulo {
     font-family: 'Kanit', sans-serif;
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 600;  
     text-shadow: 1px 1px rgb(255, 255, 255);
     margin-left: 0.3in;
     margin-right: auto;
     text-align: center;
-    display: block;
   
 }
 
 .apresentacao-imagem {
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .apresentacao-sec1-div1-subtitulo {
     font-family: 'Kanit', sans-serif;
     font-weight: 500;
-    font-size: 32px;
+    font-size: 20px;
     color: rgb(232, 198, 10);
     text-shadow: 2px 2px rgb(138, 37, 6);
     margin-top: 0.5in;
@@ -66,7 +66,6 @@ body::before {
     margin-left: 0.3in;
     margin-right: auto;
     text-align: center;
-    display: block;
 }
 
 
@@ -79,7 +78,6 @@ h3 {
     margin-top: 0.1in;
     margin-bottom: 0.5in;
     margin-left: 0.3in;
-    display: block;
 }
 
 p {
@@ -88,9 +86,7 @@ p {
     font-weight: lighter;
     color: aliceblue;
     margin-left: 0.3in;
-    display: block;
-
-
+   
 }
 
 footer {
