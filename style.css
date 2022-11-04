@@ -41,10 +41,10 @@ body::before {
     font-size: 30px;
     font-weight: 600;  
     text-shadow: 1px 1px rgb(255, 255, 255);
-    margin-left: auto;
+    margin-left: 0.9in;
     margin-right: auto;
     text-align: center;
-    justify-content: space-around;
+
   
 }
 
