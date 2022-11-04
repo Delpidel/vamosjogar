@@ -41,15 +41,16 @@ body::before {
     font-size: 30px;
     font-weight: 600;  
     text-shadow: 1px 1px rgb(255, 255, 255);
-    margin-left: 0.3in;
+    margin-left: auto;
     margin-right: auto;
+    text-align: center;
     justify-content: space-around;
   
 }
 
 .apresentacao-imagem {
     display: flex;
-    margin-left: 0.3in;
+    margin-left: auto;
     margin-right: auto;
     align-items: center;
     justify-content: space-around;
