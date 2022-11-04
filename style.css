@@ -16,6 +16,7 @@ body {
     font-weight: 400;
     line-height: normal;
     margin: 0;
+    position: inherit;
 }
 
 body::before {
@@ -40,10 +41,13 @@ body::before {
 
 .apresentacao-titulo {
     font-family: 'Kanit', sans-serif;
+    position: relative;
     font-size: 30px;
     font-weight: 600;  
     text-shadow: 1px 1px rgb(255, 255, 255);
-    margin-left: auto;
+    margin-left: 0.3in;
+    height: 100%;
+    width: 100%;
     margin-right: auto;
     text-align: center;
 
@@ -51,10 +55,13 @@ body::before {
 }
 
 .apresentacao-imagem {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
     align-items: center;
+    max-width: 400px;
+    max-height: 300px;
+    max-width: 70%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
 }
 
 .apresentacao-sec1-div1-subtitulo {
@@ -93,8 +100,9 @@ p {
 footer {
     color: aliceblue;
     font-family: 'Poppins', sans-serif;
+    position: inherit;
     font-size: 16px;
-    margin-top: 0.5in;
+    margin-top: 0.7in;
     margin-right: 0.3in;
     margin-left: 0.3in;
     margin-bottom: 0.5in;
